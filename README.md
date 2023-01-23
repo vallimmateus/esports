@@ -2,7 +2,9 @@
 
 Bem-vindo ao repositório baseado no curso da semana **NLW eSports** da **[Rocketseat](https://www.rocketseat.com.br) 🚀** que aconteceu _11 a 18 de setembro de 2022_.
 
-<img src="https://repository-images.githubusercontent.com/534824840/69bf612c-c785-4d44-a2c8-d0c572fc2199" alt="eSports NLW Rocketseat" style="width: 50%; min-width: 400px; margin: 0 auto; display: block; border-radius: 15px" />
+<div align="center" width="100%">
+  <img src="https://repository-images.githubusercontent.com/534824840/69bf612c-c785-4d44-a2c8-d0c572fc2199" alt="eSports NLW Rocketseat" width="50%" />
+</div>
 
 # 📑 Sumário
 
@@ -128,11 +130,15 @@ VITE v3.1.0  ready in 2094 ms
 
 Para acessar a aplicação é só entrar no link apresentado (http://localhost:5173/). A página inicial exibida será parecida com a imagem abaixo. Nela você poderá identificar os jogos e a quantidade de anúncios realizados em cada um.
 
-<img src="./images/Captura-web-home.png" alt="Web home" style="width: 85%; min-width: 400px; margin: 15px auto; display: block; border-radius: 15px" />
+<div align="center" width="100%">
+  <img src="./images/Captura-web-home.png" alt="Web home" width="85%" />
+</div>
 
 Você poderá também iniciar o formulário para criar um anúncio de um jogo que pretende encontrar um "duo" como mostrado abaixo.
 
-<img src="./images/Captura-web-form.gif" alt="Web form" style="width: 85%; min-width: 400px; margin: 15px auto; display: block; border-radius: 15px" />
+<div align="center" width="100%">
+  <img src="./images/Captura-web-form.gif" alt="Web form" width="85%" />
+</div>
 
 Para parar a aplicação você pode usar `Ctrl+C` dentro do terminal.
 
@@ -184,10 +190,14 @@ Logs for your project will appear below. Press Ctrl+C to exit.
 
 Se você estiver conectado à mesma rede Wi-Fi seu aplicativo apresentará uma tela semelhante à tela abaixo com a opção "mobile on ...". Você pode simplesmente clicar nela para abrir o app ou então clicar em "Scan QR code" para escanear o código QR do terminal.
 
-<img src="./images/Expo-Go-home.jpg" alt="Expo GO App" style="width: 85%; min-width: 400px; max-height: 600px; margin: 15px auto; display: block; border-radius: 15px; object-fit: contain" />
+<div align="center" width="100%">
+  <img src="./images/Expo-Go-home.jpg" alt="Expo GO App" height="600px" />
+</div>
 
 No aplicativo mobile você poderá visualizar todos os anúncios criados, selecionar seu jogo de preferência, encontrar o seu "duo" e copiar o usuário do Discord dos anunciantes para iniciar a sua conversa assim como mostra a animação abaixo.
 
-<img src="./images/Captura-mobile.gif" alt="Expo GO App" style="width: 85%; min-width: 400px; max-height: 600px; margin: 15px auto; display: block; border-radius: 15px; object-fit: contain" />
+<div align="center" width="100%">
+  <img src="./images/Captura-mobile.gif" alt="Expo GO App" height="600px" />
+</div>
 
 Para parar a aplicação você pode usar `Ctrl+C` dentro do terminal.
