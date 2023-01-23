@@ -12,6 +12,7 @@ Bem-vindo ao repositório baseado no curso da semana **NLW eSports** da **[Rocke
 - [🤔 Problemática](#-problemática)
 - [✔️ Proposta](#️-proposta)
 - [🧰 Ferramentas utilizadas](#-ferramentas-utilizadas)
+- [Protótipo no Figma](#protótipo-no-figma)
 - [Abrindo o projeto pela primeira vez](#abrindo-o-projeto-pela-primeira-vez)
   - [Node](#node)
   - [Git](#git)
@@ -26,7 +27,7 @@ Bem-vindo ao repositório baseado no curso da semana **NLW eSports** da **[Rocke
 
 # 🤔 Problemática
 
-Muitos gamers não têm uma forma centralizada de encontrar duplas para seus jogos
+Muitos gamers não têm uma forma centralizada de encontrar duplas para seus jogos onde saibam exatamente com quem podem jogar nos horários disponíveis.
 
 # ✔️ Proposta
 
@@ -43,6 +44,14 @@ Este treinamento foi realizado com o propósito de solucionar um _problema fict�
 - TypeScript <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="display: inline; height: 1em" />
 - Prisma <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" style="display: inline; height: 1em" />
 - Figma <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" style="display: inline; height: 1em" />
+
+# Protótipo no Figma
+
+O protótipo do projeto foi criado pela equipe da Rocketseat e está disponibilizado no [Figma](https://www.figma.com/community/file/1150897317533332617) como mostrado na imagem abaixo.
+
+<div align="center" width="100%">
+  <img src="./images/Figma.png" alt="Web home" width="85%" />
+</div>
 
 # Abrindo o projeto pela primeira vez
 
