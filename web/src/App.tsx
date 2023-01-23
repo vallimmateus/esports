@@ -20,7 +20,7 @@ function App() {
 	const [games, setGames] = useState<Game[]>([]);
 
 	useEffect(() => {
-		axios("http://localhost:3333/games").then((response) =>
+		axios("http://192.168.1.110:3333/games").then((response) =>
 			setGames(response.data)
 		);
 	}, []);

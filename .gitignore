@@ -16,8 +16,6 @@ mobile/web-build/
 mobile/.DS_Store
 
 server/node_modules
-# Keep environment variables out of version control
-server/.env
 
 # Logs
 web/logs
