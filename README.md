@@ -15,7 +15,8 @@ Bem-vindo ao repositório baseado no curso da semana **NLW eSports** da **[Rocke
 - [Abrindo o projeto pela primeira vez](#abrindo-o-projeto-pela-primeira-vez)
   - [Node](#node)
   - [Git](#git)
-  - [Instalando as dependências](#instalando-as-dependências)
+  - [Instalando as dependências e abrindo a aplicação](#instalando-as-dependências-e-abrindo-a-aplicação)
+    - [Instalando as dependências manualmente](#instalando-as-dependências-manualmente)
 - [📁 Servidor](#-servidor)
   - [Executando o servidor](#executando-o-servidor)
   - [Interface gráfica do banco de dados (Prisma)](#interface-gráfica-do-banco-de-dados-prisma)
@@ -63,7 +64,11 @@ Com tudo instalado você pode clonar o repositório abrindo uma pasta na qual de
 git clone https://github.com/vallimmateus/esports.git .
 ```
 
-## Instalando as dependências
+## Instalando as dependências e abrindo a aplicação
+
+Para instalar todas as dependências e executar as 3 aplicações é só abrir o arquivo `run all.bat` ou seguir os passos abaixo para a instalação manual.
+
+### Instalando as dependências manualmente
 
 Ainda na mesma pasta, faça o download de todas as bibliotecas para o funcionamento correto de cada uma das ferramentas copiando e colando todo o código abaixo.
 
@@ -71,6 +76,23 @@ Ainda na mesma pasta, faça o download de todas as bibliotecas para o funcioname
 cmd /c "cd server && npm install"
 cmd /c "cd web && npm install"
 cmd /c "cd mobile && npm install"
+```
+
+Depois abra 3 terminais na raíz do projeto e execute os seguintes códigos em cada.
+
+```bash
+cd server
+npm run dev
+```
+
+```bash
+cd web
+npm run dev
+```
+
+```bash
+cd mobile
+npm run start
 ```
 
 # 📁 Servidor
